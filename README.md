@@ -1,3 +1,3 @@
 # README
 
-Broadway landing page using Rails 6
+Broadway landing page
