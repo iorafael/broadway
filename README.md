@@ -1,3 +1,3 @@
 # README
 
-Broadway landing page
+Broadway - static Rails application.
